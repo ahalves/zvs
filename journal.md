@@ -20,3 +20,11 @@ edited the schematic to introduce a relay linked to a switch to allow for higher
 
 no model for inductors :(
 
+### 19 August - 4.2 hours total - added heatsinks
+
+<img width="216" height="302" alt="image" src="https://github.com/user-attachments/assets/c933e39d-2e58-4ee4-9f2e-4bdffb64cdb2" />
+
+it has mosfet heatsinks now 👽
+
+
+
