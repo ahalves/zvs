@@ -14,7 +14,7 @@ no 3d model for the inductors :(
 
 ## Parts
 at time of creation:
-total parts cost: **$34.43**
+total parts cost: **$35.01**
 
 for full LCSC-uploadable BOM, check bom.csv
 
